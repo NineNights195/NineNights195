@@ -1,6 +1,6 @@
 # Hi, My name is Thanarat 👋
 
-### I'm a student from Kampheang Phet Pittayakom school in Thailand. And my goal is to study at Chiang Mai University (CMU), like my brother, [Pubest](https://github.com/pubestpubest)
+### I'm a Thai student from Kampheang Phet Pittayakom school in Thailand. And my goal is to study at Chiang Mai University (CMU), like my brother, [Pubest](https://github.com/pubestpubest)
 
 ### 🌐 Socials :
 [![Roadmap](https://img.shields.io/badge/Roadmap-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/ninenights195)
