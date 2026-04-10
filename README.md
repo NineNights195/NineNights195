@@ -1,6 +1,6 @@
 # Hi. My name is Thanarat. 👋
 
-### I'm a Thai student from Kampheang Phet Pittayakom school in Thailand. My goal is to get a good university and works. Also this is my brother who is also a developer, [Pubest](https://github.com/pubestpubest)
+### I'm a Thai student from Kampheang Phet Pittayakom school in Thailand. My goal is to get a good university and jobs. Also this is my brother who is also a developer, [Pubest](https://github.com/pubestpubest)
 
 ### 🌐 Socials:
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/ninenights195)
